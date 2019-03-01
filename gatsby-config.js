@@ -5,6 +5,7 @@ module.exports = {
     title: 'Planet Reverie',
     author: 'Eleanor Gunapala',
     description: 'Eleanor Gunapala\'s personal blog.',
+    siteUrl: 'https://planetreverie.netlify.com',
     social: {
       instagram: 'https://instagram.com/poop'
     },
